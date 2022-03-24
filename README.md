@@ -110,3 +110,8 @@ For help with outliers detection, read the following articles:
 * [Removing Outliers Using Standard Deviation in Python](https://www.kdnuggets.com/2017/02/removing-outliers-standard-deviation-python.html)
 
 * [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
+
+## Acknowledgement
+
+This is the readme from the unit 7 homework assignment
+
